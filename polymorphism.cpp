@@ -1,3 +1,4 @@
+//basic program of polymorphism in c++
 #include <iostream>
 #include <string>
 using namespace std;
@@ -16,3 +17,4 @@ int main(){
     Student s1;
     return 0 ;
 }
+
